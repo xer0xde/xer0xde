@@ -10,7 +10,6 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
@@ -22,3 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jetbrains Software](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=jetbrains&logoColor=white)&nbsp;
+
+### ☕ &nbsp;Currently Learing Base:
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
