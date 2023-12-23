@@ -22,6 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jetbrains Software](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=jetbrains&logoColor=white)&nbsp;
 
-### ☕ &nbsp;Currently Learing Base:
+### 🚀 &nbsp;Currently Learning Base:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![ABAP](https://img.shields.io/badge/-ABAP-05122A?style=flat&logo=sap)&nbsp;
+
