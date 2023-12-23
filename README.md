@@ -14,7 +14,7 @@
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel]([https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=laravel))&nbsp;
+![Laravel]([https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
