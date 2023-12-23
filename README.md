@@ -19,7 +19,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jetbrains Software](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=jetbrains&logoColor=white)&nbsp;
 
 ### 🚀 &nbsp;Currently Learning Base:
