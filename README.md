@@ -1,3 +1,14 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is xerox
+===============================================================================================================================
+
+Web-Dev | Lua-Dev | PHP-Lover | AI-Dev |
+----------------------------------------
+
+* 🌍  I'm based in Germany
+* 🗝️  16 Years old
+* 📞  Contact me with your project
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xer0xde&label=Profile%20views&color=0e75b6&style=flat" alt="xerox" /></p>
 <h3 align="center">
   
