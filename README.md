@@ -5,7 +5,7 @@ Web-Dev | Desktop-Dev | Lua-Dev | AI-Dev
 ---------------------------------------
 
 * 🌍  I'm based in Germany
-* 🗝️  16 Years old
+* 🗝️  17 Years old
 * 📞  Contact me with your project
 
 
