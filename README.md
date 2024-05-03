@@ -15,7 +15,8 @@ Web-Dev | Desktop-Dev | Lua-Dev | AI-Dev
 [![Discord Presence](https://lanyard.cnrad.dev/api/400745638142148618)](https://discord.com/users/400745638142148618)
 
 </h3>
-
+<h3 align="center">
+Currently Working on Ovotic-AI 🚀
 
 
 ### 🛠 &nbsp;Tech Stack
