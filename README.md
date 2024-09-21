@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is xerox
 ===============================================================================================================================
 
-Web-Dev | Desktop-Dev | Lua-Dev | AI-Dev
+Web-Dev | Desktop-Dev | AI-Dev
 ---------------------------------------
 
 * 🌍  I'm based in Germany
@@ -25,11 +25,10 @@ Currently Working on Ovotic-AI 🚀
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![ABAP](https://img.shields.io/badge/-ABAP-05122A?style=flat&logo=sap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jetbrains Software](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=jetbrains&logoColor=white)&nbsp;
