@@ -5,7 +5,7 @@ Web-Dev | Desktop-Dev | AI-Dev
 ---------------------------------------
 
 * 🌍  I'm based in Germany
-* 🗝️  17 Years old
+* 🗝️  18 Years old
 * 📞  Contact me with your project
 
 
@@ -16,7 +16,7 @@ Web-Dev | Desktop-Dev | AI-Dev
 
 </h3>
 <h3 align="center">
-Currently Working on Ovotic-AI 🚀
+Currently Working on Ovotic-Agency 🚀
 
 
 ### 🛠 &nbsp;Tech Stack
